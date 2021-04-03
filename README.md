@@ -3,7 +3,7 @@
   - computer science
   - electronics
   - mathematical aspects of physical and socio-economic phenomena
-  - electromobility (and global transition), AC motor theory
+  - electromobility (and global transition), AC motor control theory
   - construction standards ("real" enginering :grin:)
 - 🌱 I’m currently learning Java (beginner)
 - :muscle: I'm currently improving my skills in Python and C++
