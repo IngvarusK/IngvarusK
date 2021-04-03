@@ -11,6 +11,7 @@
 - 📫 How to reach me:
   - via email ingvar.kaminski@gmail.com
   - via Discord IngvarusK#6290
+- :ok_hand: Esthete
 
 <!---
 IngvarusK/IngvarusK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
