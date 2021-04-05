@@ -5,7 +5,7 @@
   - mathematical aspects of physical and socio-economic phenomena
   - electromobility (and global transition), AC motor control theory
   - construction standards ("real" enginering :grin:)
-- 🌱 I’m currently learning Java (beginner)
+- 🌱 I’m currently learning Java (beginner), STM32
 - :muscle: I'm currently improving my skills in Python and C++
 - 💞️ I’m looking to collaborate on some DSP project
 - 📫 How to reach me:
