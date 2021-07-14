@@ -7,7 +7,7 @@
   - construction standards ("real" enginering :grin:)
 - 🌱 I’m currently learning STM32
 - :muscle: I'm currently improving my skills in power electronics design
-- 💞️ I’m looking to collaborate on nothing (being busy :confused:)
+- 💞️ I’m looking to collaborate on - nothing (quite busy :confused:)
 - 📫 How to reach me:
   - via email ingvar.kaminski@gmail.com
   - via Discord IngvarusK#6290
